@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2023-08-06 13:49+0100\n"
-"PO-Revision-Date: 2023-08-07 05:26+0000\n"
-"Last-Translator: Yi-Jyun Pan <pan93412@gmail.com>\n"
+"PO-Revision-Date: 2023-08-08 15:11+0000\n"
+"Last-Translator: Cheng-Chia Tseng <zerngjia@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <http://weblate.slat.org/projects/"
 "man-db-manpages/man-db-manpages/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -52,7 +52,7 @@ msgstr "%apropos% — 搜尋手冊頁面名稱和描述"
 #: ../../man/man8/catman.man8:15 ../../man/man8/mandb.man8:17
 #, no-wrap
 msgid "SYNOPSIS"
-msgstr ""
+msgstr "概要"
 
 #. type: Plain text
 #: ../../man/man1/apropos.man1:32
